@@ -14,3 +14,5 @@ Tive meu primeiro contato com programação na faculdade, lá em 2018, onde ingr
 [![C](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c&logoColor=fff)]()
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ribeiroPM&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
