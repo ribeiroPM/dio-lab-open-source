@@ -1,6 +1,7 @@
 # Paulo Moreira Ribeiro
 Atualmente estudo de forma autodidata, tento conciliar meu trabalho 6x1 com os estudos, o que não é lá uma tarefa das mais facéis, porém sigo ai na luta.
-Tive meu primeiro contato com programação na faculdade, lá em 2018, onde ingressei no curso Engenharia de Materiais. A faculdade não vingou, mas ai iniciou uma das minhas grandes paixões que trago até hoje, que é esse negócio de escrever um textinho na tela, e vê-lo criar "vida", fazendo exatamente o que eu peço, mesmo que nem sempre eu saiba o que "pedir".
+Tive meu primeiro contato com programação na faculdade, em 2018, onde ingressei no curso Engenharia de Materiais. A faculdade não vingou, mas ali iniciou uma das minhas grandes paixões que trago até hoje, que é esse negócio de escrever um textinho na tela, e vê-lo criar "vida", fazendo exatamente o que eu peço, mesmo que nem sempre eu saiba o que "pedir".
+Agora, estou aqui, aproveitando essa oportunidade que o Santander me proporcionou, onde espero ampliar meus conhecimentos e, com essa nova qualificação, encontrar algum emprego nesta área que tanto me fascina.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/paulo-moreira-358334178/)
